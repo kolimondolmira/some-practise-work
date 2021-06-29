@@ -1,0 +1,12 @@
+body{
+    background-color: #011627;
+    border:60px solid rgb(36, 214, 245);
+    border-top : 0px;
+    text-align: center;
+    border-bottom: 60px solid rgb(36, 214, 245);
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h1,h2{
+    color: whitesmoke;
+}
